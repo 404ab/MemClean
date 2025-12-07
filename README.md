@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg?style=for-the-badge" alt="Active">
 <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="MIT License">
 
-### 🎨 **CREATED BY '[WickedSyntax](https://github.com/WickedSyntax)' WITH ❤️** 🎨
+### 🎨 **CREATED BY '[404AB](https://github.com/404AB)' WITH ❤️** 🎨
 
 ---
 
@@ -41,8 +41,6 @@
 - 🚀 Real-time performance insights
 
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" style="padding: 10px; border: none;">
 
 ### 💾 **STORAGE MONITORING**
@@ -208,7 +206,7 @@ If this tool saved your system (and your sanity), consider:
 
 ---
 
-### 🎯 **Made with 💖 by [WickedSyntax](https://github.com/WickedSyntax)** 🎯
+### 🎯 **Made with 💖 by [404AB](https://github.com/404AB)** 🎯
 ### 🚀 **"Making Linux systems run like rockets since 2024!"** 🚀
 
 <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200">
